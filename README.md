@@ -1,4 +1,4 @@
-# Morea Template
+#CI-TRACS Morea Template
 
 This repository contains a template Morea course site.
 
